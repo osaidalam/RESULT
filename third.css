@@ -1,0 +1,81 @@
+#resdiv
+
+{
+
+height:400px ;
+width:300px ;
+position: absolute;
+left:500px ;
+top: 100px;
+
+
+
+}
+
+#nametxt{
+
+position: absolute;
+left:85px ;
+
+}
+
+#rolltxt{
+
+    position: absolute;
+    left:85px ;
+ 
+}
+
+#markobttxt{
+
+    position: absolute;
+    left:85px ;
+    
+
+
+}
+
+#tmarkstxt{
+
+    position: absolute;
+    left:85px ;
+    
+
+
+}
+
+#percentagetxt{
+
+    position: absolute;
+    left:85px ;
+    
+
+}
+
+
+#resulttxt{
+
+    position: absolute;
+    left:85px ;
+    
+
+
+}
+
+#txtarea{
+
+    position:relative;
+    left:85px ;
+    width:170px ;
+    height:70px ;
+
+}
+
+#btn{
+
+position: relative;
+left:150px ;
+
+}
+
+
